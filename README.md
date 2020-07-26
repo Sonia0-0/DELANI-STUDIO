@@ -11,3 +11,9 @@ This web application was developed by incorporating the use of:
 * CSS
 * Javascript
 * jQuery
+## Getting Started
+* Clone the repo.
+* Navigate to the project folder.
+* Open the index.html file in a browser of your choice.
+## Technical Requirements
+One needs a computer with stable internet access to be able to use the features.
