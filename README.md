@@ -17,3 +17,5 @@ This web application was developed by incorporating the use of:
 * Open the index.html file in a browser of your choice.
 ## Technical Requirements
 One needs a computer with stable internet access to be able to use the features.
+## Known Bugs
+Hover effect not working perfectly.## Contacts and support for more information,corrections or clarification, reach out at soniamakena02@gmail.com
