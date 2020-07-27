@@ -1,18 +1,18 @@
 #home {
     height: 100vh;
-    background-image: url(/img/backgrounds/h_img.jpg);
+    background-image: url(img/backgrounds/h_img.jpg);
     background-position: center bottom;
     background-size: cover;
     color: white;
   }
   #services {
-    background-image: url(/img/backgrounds/s_image.jpg);
+    background-image: url(img/backgrounds/s_image.jpg);
     background-position: center top;
     background-size: cover;
     color: white;
   }
   #contact {
-    background-image: url(/img/backgrounds/c_image.jpg);
+    background-image: url(img/backgrounds/c_image.jpg);
     background-position: center center;
     background-size: cover;
     color: white;
